@@ -1,0 +1,24 @@
+{
+    "name": "amor/uploadfile",
+    "description": "一个测试",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangAmor",
+            "email": "840106235@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"Guanguans\\": "src/"
+		}
+	}
+}
